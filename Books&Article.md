@@ -5,7 +5,7 @@
 
 # 技術解説記事とか
 
-## Docekr 系
+## Docker 系
 
 [公式ドキュメント](https://docs.docker.jp/index.html)　が結局一番いいものの、それだけだと噛み砕かれていなかったりするので。
 
