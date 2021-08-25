@@ -5,7 +5,7 @@
 
 # 技術特集とか
 
-[超入門Docker](https://atmarkit.itmedia.co.jp/ait/articles/1702/01/news061.html)
+[@IT 超入門Docker Dockerコマンドの使い方](https://atmarkit.itmedia.co.jp/ait/articles/1702/01/news061.html)
 
 
 # 説明　
