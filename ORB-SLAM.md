@@ -8,7 +8,7 @@ ORB-SLAM 3.0 (beta):https://github.com/UZ-SLAMLab/ORB_SLAM3 (Visual-Inertial and
 R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and accurate monocular SLAM system." arXiv preprint arXiv:1502.00956, pp.1-15, 2015.
 
 ## 解説記事メモ
-#### 趣味なし奴のメモ帳/ORB-SLAMの特徴 2017/07/08の記事： [https://noshumi.blogspot.com/2017/07/orb-slam.html](https://noshumi.blogspot.com/2017/07/orb-slam.html)　  
+### [趣味なし奴のメモ帳/ORB-SLAMの特徴 2017/07/08の記事](https://noshumi.blogspot.com/2017/07/orb-slam.html)　  
 - 特徴量ベースのSLAMで、ORB−SLAMはPTAM(Paraleel Tracking and Mapping)の類型。
 - 対するのは輝度を直接用いるもの(direct SLAM)。LSD-SLAMとDTAM(Dense Tracking and Mapping in Real-TIme)。
 - 特徴量ベースがvisual SLAMでは主だったが、だんだんdirectの性能が良いことがわかってきたところ、ORB-SLAMが特徴ベースでも性能が良いと示してきた。
@@ -33,6 +33,9 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
     - LOCAL MAPPINGは、 KeyFrameInsersion >> RecentMappointsculling >> NewPointsCreation >> LocalBA >> LocalKeyFramesCulling  を行う。
     - LOOP CLOSINGは、　(LOOP Detection Start)Candidates Detection >> ComputeSim3 (LOOP Detection End)>>(LOOP Correction Start)Loop Fusion >> Optimize Essential Graph (LOOP Correction End)
   - データ:PLACE RECONGNITION, MAP 
+
+### [ORB-SLAMの手法解説 slideshare 金子真也　2017/12/24](https://noshumi.blogspot.com/2017/07/orb-slam.html)　 
+
 
 ## 用語  
 - 特徴量ってなに
