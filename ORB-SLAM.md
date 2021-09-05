@@ -34,7 +34,7 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
     - LOOP CLOSINGは、　(LOOP Detection Start)Candidates Detection >> ComputeSim3 (LOOP Detection End)>>(LOOP Correction Start)Loop Fusion >> Optimize Essential Graph (LOOP Correction End)
   - データ:PLACE RECONGNITION, MAP 
 
-### [ORB-SLAMの手法解説 slideshare 金子真也　2017/12/24](https://noshumi.blogspot.com/2017/07/orb-slam.html)　 
+### [ORB-SLAMの手法解説 slideshare 金子真也　2017/12/24](https://www.slideshare.net/MasayaKaneko/orbslam-84842802)　 
 
 
 ## 用語  
