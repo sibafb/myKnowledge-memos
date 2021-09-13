@@ -38,6 +38,8 @@ https://sy-base.com/myrobotics/ros/ros-move_base/)
 
 ## 産総研のNavigationStack解説資料  
 
-[ROS Navigationスタック ソフトウェア設計資料 産業技術総合研究所 ロボットイノベーション研究センター](https://robo-marc.github.io/navigation_documents/)
+[ROS Navigationスタック ソフトウェア設計資料 産業技術総合研究所 ロボットイノベーション研究センター](https://robo-marc.github.io/navigation_documents/)  
+圧倒的にわかりやすい
+
 
 
