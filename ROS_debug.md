@@ -30,9 +30,6 @@ rosnode info [node name]
 
 - [ROS topicのプロット方法色々](https://qiita.com/FluffyHernia/items/88d67195eb6c903ed942)
   rqt_plot, rqt_bag, Plot juggler
-  ```
-  
-  ```
   
 - [ROSの便利機能](https://gbiggs.github.io/ros_moveit_rsj_tutorial/ros_useful_stuff.html)
  
