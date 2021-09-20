@@ -26,6 +26,42 @@ rosnode info [node name]
   - [ROS講座29 rosbagを使う](https://qiita.com/srs/items/f6e2c36996e34bcc4d73)
   - [rosbag - ROS Wiki](http://wiki.ros.org/rosbag)
 
+#### テンプレ(少し冗長に)
+- rosnode list でノードの一覧を調べる。  
+```
+rosnode list 
+---
+
+```
+
+- rosnode info でPublicationとSubscriptionを調べる。
+```
+rosnode info 
+---
+
+```
+- rostopic list で配信されているtopicを調べる。
+```
+rostopic list
+---
+
+```
+- rostopic info で配信されているtopicのメッセージ型を調べる。
+```
+rostopic info
+---
+```
+
+- rosmsgs show  でtopicのメッセージ型の構造がわかる
+```
+rosmsg show
+---
+```
+
+- rostopic echo でメッセージ型の中身も指定して取得できる。
+```
+```
+
 #### 調査記事
 
 - [ROS topicのプロット方法色々](https://qiita.com/FluffyHernia/items/88d67195eb6c903ed942)  
@@ -38,6 +74,7 @@ rosnode info [node name]
 - [TIER IV ACADEMY 自動運転システム構築塾](http://4c281b16296b2ab02a4e0b2e3f75446d.cdnext.stream.ne.jp/randc/mirai/2-1%20catkin.pdf)  
 - [ROS 勉強記録 (OTL)](http://ros-robot.blogspot.com/)
 - [安曇野の森から > ROS(Robot Operating System)を使う](http://forestofazumino.web.fc2.com/ros/ros_top.html)  
+- [ROSにおけるノード間通信の分析に使うコマンド紹介とその実用例]()
 
 
  
