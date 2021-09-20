@@ -32,4 +32,10 @@ rosnode info [node name]
   rqt_plot, rqt_bag, Plot juggler, rosbagを吐き出してからシェルスクリプトで変換など。
   
 - [ROSの便利機能](https://gbiggs.github.io/ros_moveit_rsj_tutorial/ros_useful_stuff.html)
+
+#### 参考資料
+
+- [TIER IV ACADEMY 自動運転システム構築塾](http://4c281b16296b2ab02a4e0b2e3f75446d.cdnext.stream.ne.jp/randc/mirai/2-1%20catkin.pdf)
+
+
  
