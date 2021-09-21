@@ -50,16 +50,62 @@ rostopic list
 ```
 rostopic info
 ---
+$rostopic info /create1/odom
+Type: nav_msgs/Odometry
+
+Publishers: 
+ * /gazebo (http://aki-desktop:46081/)
+
+Subscribers: 
+ * /create1/nodelet_manager (http://aki-desktop:41267/)
+
 ```
 
 - rosmsgs show  でtopicのメッセージ型の構造がわかる
 ```
 rosmsg show
 ---
+$rosmsg show nav_msgs/Odometry
+std_msgs/Header header
+  uint32 seq
+  time stamp
+  string frame_id
+string child_frame_id
+geometry_msgs/PoseWithCovariance pose
+  geometry_msgs/Pose pose
+    geometry_msgs/Point position
+      float64 x
+      float64 y
+      float64 z
+    geometry_msgs/Quaternion orientation
+      float64 x
+      float64 y
+      float64 z
+      float64 w
+  float64[36] covariance
+geometry_msgs/TwistWithCovariance twist
+  geometry_msgs/Twist twist
+    geometry_msgs/Vector3 linear
+      float64 x
+      float64 y
+      float64 z
+    geometry_msgs/Vector3 angular
+      float64 x
+      float64 y
+      float64 z
+  float64[36] covariance
+
 ```
 
 - rostopic echo でメッセージ型の中身も指定して取得できる。
 ```
+rostopic echo /create1/odom/pose/pose/position/x
+---
+0.284454533782
+---
+0.284454555459
+---
+・・・
 ```
 
 #### 調査記事
