@@ -120,7 +120,6 @@ rostopic echo /create1/odom/pose/pose/position/x
 - [TIER IV ACADEMY 自動運転システム構築塾](http://4c281b16296b2ab02a4e0b2e3f75446d.cdnext.stream.ne.jp/randc/mirai/2-1%20catkin.pdf)  
 - [ROS 勉強記録 (OTL)](http://ros-robot.blogspot.com/)
 - [安曇野の森から > ROS(Robot Operating System)を使う](http://forestofazumino.web.fc2.com/ros/ros_top.html)  
-- [ROSにおけるノード間通信の分析に使うコマンド紹介とその実用例]()
+- [ROSにおけるノード間通信の分析に使うコマンド紹介とその実用例](https://kazuyamashi.github.io/ros_lecture/ros_measure.html)
+- [東大JSKが公開しているクールなROS可視化ライブラリを使ってみる](https://myenigma.hatenablog.com/entry/2015/10/30/223023)
 
-
- 
