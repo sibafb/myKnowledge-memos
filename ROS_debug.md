@@ -108,15 +108,14 @@ rostopic echo /create1/odom/pose/pose/position/x
 ・・・
 ```
 
-- rosbag で取得したいトピックのログを保存できる
-
----
+- rosbag で取得したいトピックのログを保存できる。  
+```
 rosbag record /create1/odom/pose/pose/position/x /create1/odom/pose/pose/position/y 
----
+```
 保存ファイル名を指定可能
----
+```
 rosbag record -O file.bag
----
+```
 
 
 #### 調査記事
