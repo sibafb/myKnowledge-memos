@@ -108,6 +108,17 @@ rostopic echo /create1/odom/pose/pose/position/x
 ・・・
 ```
 
+- rosbag で取得したいトピックのログを保存できる
+
+---
+rosbag record /create1/odom/pose/pose/position/x /create1/odom/pose/pose/position/y 
+---
+保存ファイル名を指定可能
+---
+rosbag record -O file.bag
+---
+
+
 #### 調査記事
 
 - [ROS topicのプロット方法色々](https://qiita.com/FluffyHernia/items/88d67195eb6c903ed942)  
