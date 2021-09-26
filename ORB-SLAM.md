@@ -51,6 +51,8 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 - g2oフレームワーク
 - Covisibility graph
 - キーフレーム
+- 画像ピラミッド
+  - [画像ピラミッド](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_imgproc/py_pyramids/py_pyramids.html) 
 
 ## 参考リンク  
 - リンク
