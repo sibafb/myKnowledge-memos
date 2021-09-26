@@ -45,7 +45,7 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 - FAST　
   - [コーナー検出のためのFASTアルゴリズム](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_feature2d/py_fast/py_fast.html)
 - SHIFT特徴量（スケール不変特徴変換(Scale Invariant Feature Transform, SIFT)）
-　
+- LoG (Laplacian of Gaussian)フィルタ
 - ORB特徴量
 - DBoW2
 - g2oフレームワーク
