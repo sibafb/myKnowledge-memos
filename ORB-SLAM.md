@@ -42,7 +42,8 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 - 特徴量ってなに
 
 - BA(Bundle Adjustment)
-- FAST
+- FAST　
+  - [コーナー検出のためのFASTアルゴリズム](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_feature2d/py_fast/py_fast.html)
 - ORB特徴量
 - DBoW2
 - g2oフレームワーク
