@@ -40,7 +40,7 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 
 ## 用語  
 - 特徴量ってなに
-
+  - [特徴量検出と特徴量記述](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html)
 - BA(Bundle Adjustment)
 - FAST　
   - [コーナー検出のためのFASTアルゴリズム](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_feature2d/py_fast/py_fast.html)
