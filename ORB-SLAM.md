@@ -44,12 +44,18 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 - BA(Bundle Adjustment)
 - FAST　
   - [コーナー検出のためのFASTアルゴリズム](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_feature2d/py_fast/py_fast.html)
+- SHIFT特徴量（スケール不変特徴変換(Scale Invariant Feature Transform, SIFT)）
+　
 - ORB特徴量
 - DBoW2
 - g2oフレームワーク
 - Covisibility graph
 - キーフレーム
 
+## 参考リンク
+- [OpenCV3-Pythonチュートリアル](http://whitewell.sakura.ne.jp/OpenCV/py_tutorials/py_tutorials.html)
+めちゃくちゃわかりやすい
+  - 
 
 
 
