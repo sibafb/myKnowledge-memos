@@ -14,3 +14,5 @@
 rosbag play test.bag tf:=tf_old
 ```
 - [データを記録し，リプレイをする](http://wiki.ros.org/ja/ROS/Tutorials/Recording%20and%20playing%20back%20data)
+
+- [【ROS】一つのlaunchファイルで複数のロボット・PCを動かす](https://b.ueda.tech/?post=20190706_ros)
