@@ -6,6 +6,12 @@
 
 - [ROS講座19 roslaunch2](https://qiita.com/srs/items/e7882078b8cf11dc51fb)
 - [Record with rosbag from launch file](https://answers.ros.org/question/52773/record-with-rosbag-from-launch-file/#:~:text=Record%20with%20rosbag%20from%20launch%20file)
+```
+ <node pkg="rosbag" type="record" name="rosbag_record_hrpsys"
+       args="record -o /tmp/hrp2-hrpsys /imu /joint_states /joint_command /force_0 /force_1 /force_2 /force_3 /base_link"
+       if="$(arg record_hrpsys)" />
+```
+
 - [How to play rosbag using launch file ?](https://answers.ros.org/question/62811/how-to-play-rosbag-using-launch-file/)
 - 
 - [rosbagの便利オプション](https://ppdr.softether.net/ros-rosbag-options)
