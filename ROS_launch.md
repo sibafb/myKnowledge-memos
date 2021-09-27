@@ -6,6 +6,7 @@
 
 - [ROS講座19 roslaunch2](https://qiita.com/srs/items/e7882078b8cf11dc51fb)
 - [Record with rosbag from launch file](https://answers.ros.org/question/52773/record-with-rosbag-from-launch-file/#:~:text=Record%20with%20rosbag%20from%20launch%20file)
+- [How to play rosbag using launch file ?](https://answers.ros.org/question/62811/how-to-play-rosbag-using-launch-file/)
 - 
 - [rosbagの便利オプション](https://ppdr.softether.net/ros-rosbag-options)
 下記が使えそう
