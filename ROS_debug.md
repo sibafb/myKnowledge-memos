@@ -117,6 +117,10 @@ rosbag record /create1/odom/pose/pose/position/x /create1/odom/pose/pose/positio
 rosbag record -O file.bag
 ```
 
+#### roslaunch
+
+- [roslaunchXML](http://wiki.ros.org/roslaunch/XML)
+
 
 #### 調査記事
 
