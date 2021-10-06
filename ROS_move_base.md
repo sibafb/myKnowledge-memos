@@ -34,12 +34,20 @@ https://sy-base.com/myrobotics/ros/ros-move_base/)
 - Closed RRT
 - Model Predictive Control
 
-[](https://qiita.com/np_hsgw/items/5cf1644e18a42838b17c)
+[move_baseの分析(1) -move_base本体-](https://qiita.com/np_hsgw/items/5cf1644e18a42838b17c)
 
 ## 産総研のNavigationStack解説資料  
 
 [ROS Navigationスタック ソフトウェア設計資料 産業技術総合研究所 ロボットイノベーション研究センター](https://robo-marc.github.io/navigation_documents/)  
 圧倒的にわかりやすい
 
+## Roomba系のメモ
 
+[HARD2021：AIロボットのつくり方（第１回）](https://demura.net/robot/hard/19952.html)  
+[HARD2021：ロボット航法のつくり方（第２回）](https://demura.net/robot/hard/20081.html)
+[HARD2021：ロボット航法のつくり方（第２回）](https://demura.net/robot/hard/20081.html)
+
+### Create_autonomy Wiki
+
+[RoboticaUtnFraba Create_autonomy Wiki](https://github.com/RoboticaUtnFrba/create_autonomy/wiki)
 
