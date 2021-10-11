@@ -26,6 +26,11 @@ rosnode info [node name]
   - [ROS講座29 rosbagを使う](https://qiita.com/srs/items/f6e2c36996e34bcc4d73)
   - [rosbag - ROS Wiki](http://wiki.ros.org/rosbag)
 
+- rosbagのフィルタツール
+
+  - [ROSのbagファイルのトピックを簡単にフィルタリングするGUIツールを作った](https://myenigma.hatenablog.com/entry/2016/02/09/223403)
+
+
 #### テンプレ(少し冗長に)
 - rosnode list でノードの一覧を調べる。  
 ```
