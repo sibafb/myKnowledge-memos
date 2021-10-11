@@ -18,6 +18,7 @@ rosnode info [node name]
 - rospy.loginfo  
   - [HARD2021:ルンバの位置をPythonプログラムで知ろう！](https://demura.net/robot/hard/20085.html) ではrospy.loginfo が使われていた。  
   - [rospyでログを取得する](http://wiki.ros.org/ja/rospy_tutorials/Tutorials/Logging) 公式解説  
+  - [ROSBagから画像を抽出する（image_viewを使うべきではない気がする）](https://ossyaritoori.hatenablog.com/entry/2019/04/03/ROSBag%E3%81%8B%E3%82%89%E7%94%BB%E5%83%8F%E3%82%92%E6%8A%BD%E5%87%BA%E3%81%99%E3%82%8B%EF%BC%88image_view%E3%82%92%E4%BD%BF%E3%81%86%E3%81%B9%E3%81%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E6%B0%97)
 
 #### rosのtopicごと保存する
 
