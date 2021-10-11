@@ -131,6 +131,10 @@ rosbag record -O file.bag
 rosgraph
 ```
 
+#### vscodeでrosをステップ実行してデバッグ
+
+[vscodeでrosをステップ実行してデバッグ](https://qiita.com/taka_horibe/items/50e4659e88d1ee3cd04a)
+
 #### 調査記事
 
 - [ROS topicのプロット方法色々](https://qiita.com/FluffyHernia/items/88d67195eb6c903ed942)  
