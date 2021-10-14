@@ -58,3 +58,7 @@ https://sy-base.com/myrobotics/ros/ros-move_base/)
 [Autoware 演習３：３次元地図の作成](http://4c281b16296b2ab02a4e0b2e3f75446d.cdnext.stream.ne.jp/randc/mirai/3-3%20Ex-mapping.pdf)
 []()
 
+
+### 東京オープンソースロボティクス協会
+
+[東京オープンソースロボティクス協会](https://opensource-robotics.tokyo.jp/?page_id=164)
