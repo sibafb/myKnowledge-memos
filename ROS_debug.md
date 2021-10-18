@@ -135,6 +135,10 @@ rosgraph
 
 [vscodeでrosをステップ実行してデバッグ](https://qiita.com/taka_horibe/items/50e4659e88d1ee3cd04a)
 
+#### 
+
+[ROSのC++のソースコードをgdbでデバッグする方法](https://qiita.com/Nasupl_r/items/7610139628fc59d47cb5)
+
 #### 調査記事
 
 - [ROS topicのプロット方法色々](https://qiita.com/FluffyHernia/items/88d67195eb6c903ed942)  
