@@ -8,7 +8,6 @@
 rosnode info [node name]
 ```
 
-
 ## Logger 関連
 
 #### コード中に記載し、処理中の値を表示するもの
@@ -134,6 +133,8 @@ rosgraph
 #### vscodeでrosをステップ実行してデバッグ
 
 [vscodeでrosをステップ実行してデバッグ](https://qiita.com/taka_horibe/items/50e4659e88d1ee3cd04a)
+
+[Debug ROS nodes with vscode-ros](https://github.com/ms-iot/vscode-ros/blob/master/doc/spec/debug-ros-nodes.md)
 
 #### 
 
