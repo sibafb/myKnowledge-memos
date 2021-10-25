@@ -51,6 +51,9 @@ https://sy-base.com/myrobotics/ros/ros-move_base/)
 
 [RoboticaUtnFraba Create_autonomy Wiki](https://github.com/RoboticaUtnFrba/create_autonomy/wiki)
 
+### Moveit
+
+[MoveItの各プランナーについての解説（WMD 2019 in Tokyo 準備編）](https://opensource-robotics.tokyo.jp/?p=4313)
 
 ### TIER IV ACADEMY 自動運転システム構築塾
 
