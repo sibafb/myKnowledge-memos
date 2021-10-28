@@ -11,6 +11,8 @@ ROS1の標準となるナビゲーション
 https://sy-base.com/myrobotics/ros/ros-move_base/)  
 結構わかりやすい解説記事。
 
+[経路探索のパラメータの設定](http://dailyrobottechnology.blogspot.com/2014/12/812.html)
+
 ## ロボティクスにおける経路計画  
 
 [ロボティクスにおける経路計画(Path planning and Motion planning)技術の概要](https://myenigma.hatenablog.com/entry/2017/07/23/095511)  
