@@ -1,3 +1,6 @@
+## - [ORB-SLAM]()
+## - []()
+
 ## [ORB-SLAM 公式project webpage](https://webdiis.unizar.es/~raulmur/orbslam/)  
 公式ソースコード  
 ORB-SLAM: https://github.com/raulmur/ORB_SLAM . (Monocular. ROS integrated)  
@@ -37,6 +40,11 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
     - MAPは、MapPoints, KeyFrames, Covisibility Graph, Spaninng Tree  
 ### [ORB-SLAMの手法解説 slideshare 金子真也　2017/12/24](https://www.slideshare.net/MasayaKaneko/orbslam-84842802)　 
 
+# Camera セッティング
+
+ - [How to use Kinect with NVIDIA Jetson Nano. Libfreenect demo and ROS node installation](https://www.youtube.com/watch?v=HTgsaG4KL5I)
+
+https://www.youtube.com/watch?v=HTgsaG4KL5I
 
 ## 用語  
 - 特徴量ってなに
