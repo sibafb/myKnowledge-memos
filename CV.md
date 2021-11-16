@@ -52,6 +52,8 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 
 https://www.youtube.com/watch?v=HTgsaG4KL5I
 
+https://www.youtube.com/watch?v=ixQeYF3uBUY
+
 ---
 
 ## 用語  
