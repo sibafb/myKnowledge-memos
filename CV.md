@@ -48,6 +48,8 @@ R. Mur-Artal, J. M. M. Montiel, and J. D. Tardos, "ORB-SLAM: a versatile and acc
 
  - [How to use Kinect with NVIDIA Jetson Nano. Libfreenect demo and ROS node installation](https://www.youtube.com/watch?v=HTgsaG4KL5I)
 
+ - [openni2_camera](http://wiki.ros.org/openni_camera)
+
 https://www.youtube.com/watch?v=HTgsaG4KL5I
 
 ---
